@@ -1,4 +1,4 @@
 # hello-world
 repository for github tutorial
 Sangwoo Kim
-Yonsei Univ.
+Yonsei University
